@@ -1,0 +1,1 @@
+przykladowy tekst w pliku dane_in.txt
